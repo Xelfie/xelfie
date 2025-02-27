@@ -1,4 +1,4 @@
-## 👋 Hey, I'm Marine!
+## ヾ(・・) Oh, hey! I'm Marine.
 
 A developer who got into programming because it's fun!
 
@@ -7,6 +7,8 @@ A developer who got into programming because it's fun!
 🎮 I enjoy exploring game development from time to time.
 
 What excites me most? The challenge of problem-solving and the joy of bringing ideas to life!
+
+In my free time, I love drawing, hiking, and exploring the outdoors. I also enjoy learning music, playing board games, or a nice indie game. 👾
 
 Always curious, always learning. 🚀
 
