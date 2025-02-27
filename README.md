@@ -1,16 +1,14 @@
-## Hey, I'm Marine 👋
+## 👋 Hey, I'm Marine!
 
 A developer who got into programming because it's fun!
 
-💻 I build web apps for a living (and sometimes in my spare time)
+💻 I build web apps for a living (and sometimes for fun) – mostly with TypeScript. <br/>
+📱 I have some experience with mobile development, primarily using React Native and Expo. <br/>
+🎮 I enjoy exploring game development from time to time.
 
-📱 I have some experience with mobile development
+What excites me most? The challenge of problem-solving and the joy of bringing ideas to life!
 
-🎮 I enjoy exploring game development from time to time
-
-What excites me most? The challenge, and the joy of bringing ideas to life!
-
-Always curious, always learning 🚀
+Always curious, always learning. 🚀
 
 <!--
 **Xelfie/xelfie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
