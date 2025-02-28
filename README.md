@@ -3,7 +3,7 @@
 A developer who got into programming because it's fun!
 
 💻 I build web apps for a living (and sometimes for fun) – mostly with TypeScript. <br/>
-📱 I have some experience with mobile development, primarily using React Native and Expo. <br/>
+📱 I have some experience with mobile development, primarily using React Native. <br/>
 🎮 I enjoy exploring game development from time to time.
 
 What excites me most? The challenge of problem-solving and the joy of bringing ideas to life!
